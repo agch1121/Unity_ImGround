@@ -141,11 +141,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6207051329582807953, guid: 2bc56b8a8e4cb144b99ff6bc80d27224, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< Updated upstream:ImGround/Assets/Test Scene.unity
       value: 0.01895523
+=======
+      value: 12.7
+>>>>>>> Stashed changes:ImGround/Assets/Scenes/Evironment_test.unity
       objectReference: {fileID: 0}
     - target: {fileID: 6207051329582807953, guid: 2bc56b8a8e4cb144b99ff6bc80d27224, type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< Updated upstream:ImGround/Assets/Test Scene.unity
       value: 3.73703
+=======
+      value: -1.8
+>>>>>>> Stashed changes:ImGround/Assets/Scenes/Evironment_test.unity
       objectReference: {fileID: 0}
     - target: {fileID: 6207051329582807953, guid: 2bc56b8a8e4cb144b99ff6bc80d27224, type: 3}
       propertyPath: m_LocalRotation.w
